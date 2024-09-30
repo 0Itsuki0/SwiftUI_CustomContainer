@@ -15,6 +15,8 @@
 		98B97B502CA4F46B00615D04 /* CustomContainerDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomContainerDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		98B97D352CA8DE1E00615D04 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		98B97D392CA8DE3900615D04 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		98B97D622CAA181F00615D04 /* basic.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = basic.gif; sourceTree = "<group>"; };
+		98B97D662CAA339100615D04 /* editable.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = editable.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -58,6 +60,8 @@
 		98B97D3B2CA8DE3D00615D04 /* ReadmeAsset */ = {
 			isa = PBXGroup;
 			children = (
+				98B97D622CAA181F00615D04 /* basic.gif */,
+				98B97D662CAA339100615D04 /* editable.gif */,
 			);
 			path = ReadmeAsset;
 			sourceTree = "<group>";

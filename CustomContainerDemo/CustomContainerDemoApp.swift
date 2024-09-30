@@ -12,7 +12,10 @@ struct CustomContainerDemoApp: App {
     let items = [0, 1, 2, 3, 4, 5, 6, 7]
     var body: some Scene {
         WindowGroup {
-            V5ContentView()
+            V10ContentView()
+                .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .center)
+                .background(.gray.opacity(0.2))
+
         }
     }
 }
