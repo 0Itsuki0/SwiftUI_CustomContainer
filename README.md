@@ -209,4 +209,4 @@ HStack {
 
 ![](./ReadmeAsset/editable.gif)
 
-For more details, please check out [SwiftUI: Custom Editable Container View]().
+For more details, please check out [SwiftUI: Custom Editable Container View](https://medium.com/gitconnected/swiftui-custom-container-view-editable-c48870e74b0f).
